@@ -1,0 +1,23 @@
+{
+  "name": "timer-project",
+  "version": "1.0.0",
+  "description": "a grup work to make timer site",
+  "main": "index.js",
+  "scripts": {
+    "build-css" : "tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad-hassani/timer-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad-hassani/timer-project/issues"
+  },
+  "homepage": "https://github.com/mohammad-hassani/timer-project#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.1"
+  }
+}
